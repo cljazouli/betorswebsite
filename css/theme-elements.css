@@ -4743,12 +4743,12 @@ body.dark .pagination > .active > a {
 }
 
 .owl-carousel.nav-style-4 .owl-nav .owl-prev {
-	left: 75px;
+	left: 13px;
 }
 
 @media (max-width: 991px) {
 	.owl-carousel.nav-style-4 .owl-nav .owl-prev {
-		left: 40px;
+		left: 13px;
 	}
 }
 
@@ -4764,7 +4764,7 @@ body.dark .pagination > .active > a {
 
 @media (max-width: 991px) {
 	.owl-carousel.nav-style-4 .owl-nav .owl-next {
-		right: 40px;
+		right: 13px;
 	}
 }
 
