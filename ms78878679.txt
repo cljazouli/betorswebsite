@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "betors.co.ma",
+  "Id": "df7edb38-cd3d-4f9b-a44a-705d4cd1184d"
+}
